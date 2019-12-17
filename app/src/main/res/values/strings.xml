@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MVVMBookList</string>
+    <string name="hint_search">Buscar</string>
+    <string name="tv_empty">No disponible</string>
+
+    <string name="book_title"><b>Titulo:</b> %1$s</string>
+    <string name="author_name"><b>Autor:</b> %1$s %2$s</string>
+    <string name="category"><b>Categoria:</b> %1$s</string>
+
+
+</resources>
